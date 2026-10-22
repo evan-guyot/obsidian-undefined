@@ -30,4 +30,4 @@ Fonts chosen in **Settings → Appearance** take priority over the bundled ones.
 
 ## License
 
-Theme: MIT. Bundled fonts: SIL Open Font License 1.1, see [FONTS-LICENSE](FONTS-LICENSE).
+Theme: MIT. Bundled fonts: SIL Open Font License 1.1, see [fonts/OFL.txt](fonts/OFL.txt).
